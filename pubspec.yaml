@@ -1,16 +1,13 @@
 name: grizzly_distuv
 description: Univariate random distributions library for Dart
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/Grizzly-dart/grizzly_stats
-author: Ravi Teja Gudapati <tejainece@gmail.com>
 
 environment:
-  sdk: '>=2.15.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 # dependencies:
 
 dev_dependencies:
   test:
-  #grizzly_array:
-  #  path: ../grizzly_array
   grizzly_range: ^3.0.0
