@@ -1,5 +1,5 @@
-name: grizzly_distuv
-description: Univariate random distributions library for Dart
+name: distuv
+description: univariate random distributions sampling and statistics forked from grizzly_distuv
 version: 1.1.0
 homepage: https://github.com/Grizzly-dart/grizzly_stats
 

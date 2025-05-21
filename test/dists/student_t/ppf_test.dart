@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:grizzly_distuv/grizzly_distuv.dart';
+import 'package:distuv/distuv.dart';
 
 main() {
   group("Student-t", () {

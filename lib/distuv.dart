@@ -4,5 +4,5 @@
 /// Statistics and probability
 library grizzly_stats;
 
-export 'package:grizzly_distuv/src/dists/dists.dart';
-export 'package:grizzly_distuv/src/sampler/sampler.dart';
+export 'package:distuv/src/dists/dists.dart';
+export 'package:distuv/src/sampler/sampler.dart';

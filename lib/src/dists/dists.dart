@@ -1,7 +1,7 @@
 library grizzly.distuv.dist;
 
 import 'dart:math' as math;
-import 'package:grizzly_distuv/math.dart' as math;
+import 'package:distuv/math.dart' as math;
 
 part 'beta.dart';
 part 'binomial.dart';

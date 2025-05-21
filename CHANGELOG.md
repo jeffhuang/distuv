@@ -3,6 +3,7 @@
 ## 1.1.0
 
 + For Dart 3.0
++ Package name change
 
 ## 1.0.0
 

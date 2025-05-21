@@ -1,1 +1,1 @@
-export 'package:grizzly_distuv/src/math/math.dart';
+export 'package:distuv/src/math/math.dart';
